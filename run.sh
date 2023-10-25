@@ -1,0 +1,1 @@
+for i in ./graphs/*.yaml; do yml2dot $i | dot -Tpng > "${i%.*}.png"; done

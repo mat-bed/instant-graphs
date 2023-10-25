@@ -1,0 +1,7 @@
+example:
+  first:
+    - leaf 1.1
+    - leaf 1.2
+  second:
+    - leaf 2.1
+    - leaf 2.2
